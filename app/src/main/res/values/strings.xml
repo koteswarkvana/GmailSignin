@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleGmailLogin</string>
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="client_secret">syNRSwGxF2KFuRKG-fg99FAH</string>
+    <string name="server_client_id">273023954602-ptva0nqdeul4eri5ojcf72r35io7l6sb.apps.googleusercontent.com</string>
+</resources>
